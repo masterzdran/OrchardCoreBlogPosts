@@ -1,0 +1,10 @@
+OrchardCoreCMS/App_Data/Sites
+*.json
+OrchardCoreCMS/bin
+OrchardCoreRecipe.Freelancer/bin
+OrchardCoreCMS/Localization
+OrchardCoreCMS/obj
+OrchardCoreCMS/wwwroot/is-cache
+OrchardCoreRecipe.Freelancer/obj
+OrchardCoreTheme.Freelancer/bin
+OrchardCoreTheme.Freelancer/obj

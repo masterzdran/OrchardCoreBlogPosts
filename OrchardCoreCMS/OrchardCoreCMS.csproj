@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <PreserveCompilationReferences>true</PreserveCompilationReferences>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="OrchardCore.Application.Cms.Targets" Version="1.0.0-rc2-13450" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\OrchardCoreRecipe.Freelancer\OrchardCoreRecipe.Freelancer.csproj" />
+      <ProjectReference Include="..\OrchardCoreTheme.Freelancer\OrchardCoreTheme.Freelancer.csproj" />
+    </ItemGroup>
+
+</Project>
